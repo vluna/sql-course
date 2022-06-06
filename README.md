@@ -1,1 +1,1 @@
-# sql-course
+# SQL Course
