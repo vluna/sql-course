@@ -10,3 +10,6 @@ Your manager has a couple of reports they want you to run. They would like you t
 - The amount of products sold per brand
 - The amount of products sold per category
 - Customers that have not made any orders
+
+You might need:
+- [GROUP BY](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-group-by/)
