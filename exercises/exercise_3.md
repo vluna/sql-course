@@ -1,4 +1,4 @@
-# Exercise 2
+# Exercise 3
 
 ## Context
 
@@ -13,3 +13,4 @@ Your manager has a couple of reports they want you to run. They would like you t
 
 You might need:
 - [GROUP BY](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-group-by/)
+- [SUM](https://www.postgresqltutorial.com/postgresql-aggregate-functions/postgresql-sum-function/)
