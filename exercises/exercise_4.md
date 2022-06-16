@@ -1,8 +1,8 @@
-# Exercise 2
+# Exercise 4
 
 ## Context
 
-Your manager is impressd by how quick and accurate your report was. Now they want to focus on the bike sales.
+Your manager has a couple of reports they want you to run. They would like you to:
 
 Assuming the order statuses are:
 | id  | status_name              |
@@ -11,8 +11,6 @@ Assuming the order statuses are:
 |  2  | Paid but not delivered   |
 |  3  | Paid and shipped         |
 |  4  | Recieved by the cusomter |
-
-Your manager is asking you to:
 
 - List all the bikes in transit to the customer
 - The bikes that were ordered with more than 15% disscount
