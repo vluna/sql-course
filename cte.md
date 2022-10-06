@@ -1,7 +1,7 @@
 # Common Table Expression (CTE)
 >Also known as:
 >- WITH clause/query
->- ubquery refactor
+>- Subquery refactor
 
 ### What is it?
 A temporary result, meaning that it works within the execution scope of a single SELECT, INSERT, UPDATE, DELETE, or CREATE VIEW statement (not to be confused with temporary tables*).
