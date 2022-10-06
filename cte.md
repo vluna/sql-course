@@ -13,6 +13,15 @@ CTE makes it easy to write and maintain complex queries. When the queries become
 **Temporary tables get deleted when the current client session is terminated.*
 
 ### Example
+Let's say you have a chain of stores and you want to know which stores are performing well and which ones are not. In order to figure this out, you want to know the average sales of all stores and see which ones are above and below the average. Breaking it down into small pieces, you want to know:
+- The total amount of sales per store
+- The average amount of sales across all stores
+- Stores that are making more than the average sales for all stores
+- Stores that are making below the average sales for all stores
+
+---
+
+### Solution
 #### Without CTE
 ```
 -- Total sales per store	
